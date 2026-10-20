@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=team%20TAK&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=TAK%20Squad&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60"/>
 
 ### 💻 Full Stack Developer
 
@@ -19,10 +19,10 @@
 ## 🚀 About Me
 
 ```bash
-Name        : team TAK
+Name        : TAK Squad
 Role        : Full Stack Developer
 Country     : Iran
-Experience  : +3 Years
+Experience  : +4 Years
 Status      : Available for work
 
 Frontend:
